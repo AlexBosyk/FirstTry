@@ -1,5 +1,5 @@
 Feature start
 Action x
-Action y
+Action y2
 Action z
 Feature end
